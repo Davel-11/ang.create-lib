@@ -1,0 +1,8 @@
+{
+  "name": "i4t-lib01-lbrry",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^8.2.9",
+    "@angular/core": "^8.2.9"
+  }
+}
